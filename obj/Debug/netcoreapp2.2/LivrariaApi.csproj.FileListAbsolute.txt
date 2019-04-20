@@ -1,0 +1,14 @@
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi\bin\Debug\netcoreapp2.2\LivrariaApi.deps.json
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi\bin\Debug\netcoreapp2.2\LivrariaApi.runtimeconfig.json
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi\bin\Debug\netcoreapp2.2\LivrariaApi.runtimeconfig.dev.json
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi\bin\Debug\netcoreapp2.2\LivrariaApi.dll
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi\bin\Debug\netcoreapp2.2\LivrariaApi.pdb
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi\obj\Debug\netcoreapp2.2\LivrariaApi.csprojAssemblyReference.cache
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi\obj\Debug\netcoreapp2.2\LivrariaApi.csproj.CoreCompileInputs.cache
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi\obj\Debug\netcoreapp2.2\LivrariaApi.RazorAssemblyInfo.cache
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi\obj\Debug\netcoreapp2.2\LivrariaApi.RazorAssemblyInfo.cs
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi\obj\Debug\netcoreapp2.2\LivrariaApi.AssemblyInfoInputs.cache
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi\obj\Debug\netcoreapp2.2\LivrariaApi.AssemblyInfo.cs
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi\obj\Debug\netcoreapp2.2\LivrariaApi.RazorTargetAssemblyInfo.cache
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi\obj\Debug\netcoreapp2.2\LivrariaApi.dll
+E:\PÓS\Arquitetura de Backend e Microsserviços\src\Livraria-Microservices\LivrariaApi\obj\Debug\netcoreapp2.2\LivrariaApi.pdb
